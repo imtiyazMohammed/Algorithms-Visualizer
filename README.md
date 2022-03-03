@@ -2,6 +2,8 @@
 
 ### Visualization of Sorting of a List using various Sorting Techniques using Pygame.
 
+![alt text](https://github.com/imtiyazMohammed/Sorting-Algorithms-Visualizer/blob/main/demo.png)
+
 ### Algorithms implemented:
 
 . Bubble Sort (Ascending and Descending)
