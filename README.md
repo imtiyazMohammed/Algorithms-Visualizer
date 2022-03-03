@@ -1,6 +1,8 @@
-# Sorting-Algorithms-Visualizer
+# Algorithms-Visualizer
 
-### Visualization of Sorting of a List using various Sorting Techniques using Pygame.
+### Visualization of Various Algorithms like Sorting, Backtracking using Pygame.
+
+## 1. Sorting Algorithms:
 
 ![alt text](https://github.com/imtiyazMohammed/Sorting-Algorithms-Visualizer/blob/main/demo.png)
 
