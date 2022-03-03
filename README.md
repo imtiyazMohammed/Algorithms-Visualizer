@@ -23,3 +23,14 @@
 . Quick Sort
 
 . Tim Sort
+
+
+## 2. Sudoku Game using Backtracking:
+
+![alt text](https://github.com/imtiyazMohammed/Sorting-Algorithms-Visualizer/blob/main/demo2.png)
+
+. A Sudoku Game using Python
+
+. The Validity of the Input by the user is checked using Backtracking Algorithm
+
+. The GUI is implemented using Pygame
